@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shubhankar Chhokra (@ShubhankarChhokra)
+- 👀 I’m a recent graduate of Harvard University Social Studies and Computer Science
+- 🌱 I’m interested in using data and technology to unlock social insights, particularly in the subfields of investor and voter psychology 
+- 💞️ I’m looking to launch a project in this space -- coming soon
+- 📫 How to reach me ... email shubhankarchhokra [at] gmail [dot] coom.
